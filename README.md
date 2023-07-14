@@ -1,6 +1,6 @@
-<link type="text/css" rel="stylesheet" href="https://github.com/cauadasilva/caua/blob/main/style.css"
+
   
-<div id="body"> Sejam bem vindo ao meu site 😃
+<div> Sejam bem vindo ao meu site 😃
 DESCRIÇÃO : estou fazendo um site 
 para passar um tempo e melhora minha programação </div>
 
