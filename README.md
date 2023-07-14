@@ -1,3 +1,5 @@
+<link type="text/css" rel="stylesheet" href="https://github.com/cauadasilva/caua/blob/main/style.css"
+  
 <div align="left"> Sejam bem vindo ao meu site 😃
 DESCRIÇÃO : estou fazendo um site 
 para passar um tempo e melhora minha programação </div>
