@@ -10,5 +10,9 @@ para passar um tempo e melhora minha programação </div>
 
   
 </h1>
+<div align="center">
+
+não sei programar muito ainda estou aprendendo.<br> utilizo o README do github para programar
+</div><p align="center">pretendo programar mais e me dedicar a programação, vou tentar atualizar meu site todo dia espero que gostem.</p>
   
 
