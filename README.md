@@ -11,11 +11,11 @@ para passar um tempo e melhora minha programação </div>
   
 </h1>
 <h4>
-<div align="center">
+<div align="left">
 
 não sei programar muito ainda estou aprendendo.<br> utilizo o README do github para programar
 </div>&nbsp;
 
-<p align="center">pretendo programar mais e me dedicar a programação, vou tentar atualizar meu site todo dia espero que gostem.</p>
+<p align="left">pretendo programar mais e me dedicar-me<br> a programação, vou tentar atualizar meu site todo dia espero que gostem.</p>
   </h4>
 
